@@ -1,0 +1,23 @@
+ul.sortable-list{
+    margin: 20px 0;
+}
+
+ul.sortable-list li{
+    margin-bottom: 30px;
+    background: #fff;
+}
+
+.custom-control-heading {
+    font-weight: 600;
+    padding: 12px 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+.custom-control-body {
+    padding: 10px;
+}
+
+
+li.all-sub-container:first-child .delete {
+    display: none;  
+}
